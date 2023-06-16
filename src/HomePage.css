@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(45deg, #ffa200, #6eda78);
+}
+#root {
+  height: 100vh;
+  padding: 3rem;
+}
+a {
+  text-decoration: none !important;
+}
+.Buttonsmall,
+.Buttonsmall:hover,
+.Buttonsmall:visited {
+  background-color: #6eda78 !important;
+  color: #fff !important;
+  border-radius: 50px;
+  border: none;
+}
+
+.ms-300 {
+  margin-left: 316px;
+}
+.ant-card:hover:not(.nohovercolor) svg polygon,
+.ant-card:hover:not(.nohovercolor) svg circle,
+.ant-card:hover:not(.nohovercolor) svg rect,
+.ant-card:hover:not(.nohovercolor) svg ellipse {
+  fill: #fff;
+}
+
+.ant-card:hover {
+  background-color: #ffa200;
+  cursor: pointer;
+}
+.custom-link:hover .ant-card {
+  background-color: #fff;
+}
+.ant-card {
+  border: none;
+}
+.bordercard{
+  border: #000 1px solid;
+  border-radius: 10px;
+  width: 60%;
+}
+.red{
+  color: red;
+}
+.mt-60{
+  margin-top: 60px !important;
+}
