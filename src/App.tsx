@@ -13,7 +13,8 @@ import formReducer from "./action";
 import "./HomePage.css";
 import LayoutPage from "./Layout";
 import Frompage from "./Frompage";
-import store from "./store";
+import {store} from "./store";
+import { Counter } from "./Teststore";
 
 i18n.use(initReactI18next).init({
   resources: {
@@ -35,6 +36,7 @@ const App: React.FC = () => {
           <Route path="/" element={<HomePage />} />
           <Route path="/Layout" element={<LayoutPage />} />
           <Route path="/From" element={<Frompage />} />
+          <Route path="/Teststore" element={<Counter />} />
         </Routes>
       </BrowserRouter>
     </Provider>

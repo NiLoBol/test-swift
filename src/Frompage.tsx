@@ -16,7 +16,7 @@ const Frompage = () => {
         className="position-absolute top-0 end-0 m-3 mt-60"
         htmlType="button"
       >
-        <Link to="..">หน้าหลัก</Link>
+        <Link to="..">{t("mainpage")}</Link>
       </Button>
 
       <h1 className="mb-4">{t("From")}</h1>

@@ -7,6 +7,25 @@
     "Connect": "Connect API",
     "From": "Form & Table",
     "MoveShape": "Move shape",
-    "MovePosition": "Move position"
+    "MovePosition": "Move position",
+
+    "prefix":"prefix",
+    "firstname":"firstname",
+    "surname":"surname",
+    "birthday":"birthday",
+    "nationality":"nationality",
+    "IDcardnumber":"ID card number",
+    "mobilephonenumber":"mobile phone number",
+    "passport":"passport",
+    "expectedsalary":"expected salary",
+    "cleanup":"cleanup",
+    "sendinformation":"send information",
+    "deleteinformation":"delete information",
+    "name":"name",
+    "gender":"gender",
+    "phonenumber":"phone number",
+    "management":"management",
+    "selectall":"select all",
+    "mainpage":"main page"
 }
   
