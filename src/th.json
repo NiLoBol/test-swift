@@ -6,6 +6,25 @@
     "Connect": "การเชื่อมต่อ API",
     "From": "การจัดการหน้าฟอร์ม",
     "MoveShape": "เลื่อนรูปแบบ",
-    "MovePosition": "เปลี่ยนตำแหน่ง"
+    "MovePosition": "เปลี่ยนตำแหน่ง",
 
+
+    "prefix":"คำนำหน้าชื่อ",
+    "firstname":"ชื่อจริง",
+    "surname":"นามสกุล",
+    "birthday":"วันเกิด",
+    "nationality":"สัญชาติ",
+    "IDcardnumber":"เลขบัตรประชาชน",
+    "mobilephonenumber":"หมายเลขโทรศัพท์มือถือ",
+    "passport":"หนังสือเดินทาง",
+    "expectedsalary":"เงินเดือนที่คาดหวัง",
+    "cleanup":"ล้างข้อมูล",
+    "sendinformation":"ส่งข้อมูล",
+    "deleteinformation":"ลบข้อมูล",
+    "name":"ชื่อ",
+    "gender":"เพศ",
+    "phonenumber":"หมายเลขโทรศัพท์",
+    "management":"การจัดการ",
+    "selectall":"เลือกทังหมด",
+    "mainpage":"หน้าหลัก"
 }
